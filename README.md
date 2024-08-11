@@ -14,6 +14,6 @@ https://t.me/u_m_k_a_bot
 - ведение статистики для администратора
 
 Стек:
-Python
-Aiogram
-PostgreSQL
+- Python
+- Aiogram
+- PostgreSQL
